@@ -1,1 +1,1 @@
-wazaaa
+print("waza")
